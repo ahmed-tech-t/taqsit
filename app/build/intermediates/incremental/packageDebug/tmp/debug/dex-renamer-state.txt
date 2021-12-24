@@ -1,0 +1,4 @@
+#Sun Jun 13 05:35:39 MSK 2021
+base.0=E\:\\program setup\\android\\android Projects\\taqsit\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
